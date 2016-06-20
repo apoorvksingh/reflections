@@ -7,7 +7,7 @@
 2>How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-2>
+2> The staging area essentially serves as an intermediary where we can keep the files we are working on before we finally make a commit. This is different from the working directory and and the repository as the files in the staging area are in a sort of transitional state.
 
 
 
