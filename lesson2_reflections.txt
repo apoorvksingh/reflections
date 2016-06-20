@@ -14,7 +14,7 @@ What value do you think it offers?
 3>How can you use the staging area to make sure you have one commit per logical
 change?
 
-3>
+3> we can only add files to the staging area once we are sure that we have made the required changes. in addition we can view the difference between the file in the staging area and the most recent commit using the git diff —staging command.
 
 
 
