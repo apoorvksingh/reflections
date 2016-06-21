@@ -18,7 +18,7 @@ we will use fork when we want to create/edit our own version of someone else’s
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    It allows us to see the last commit where the remote and local repositories were in sync to allow for more meaningful merging.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
