@@ -27,7 +27,7 @@ organized? How would branches help?
 
 5>How do the diagrams help you visualize the branch structure?
 
-5>
+5> Branches allow us to visualise how the entire commit history is structured, including where we have made new branches to identify which would be the last commit in master that was built upon by the branches and see what would be the feature differences in the commits of the different branches.
 
 
 
