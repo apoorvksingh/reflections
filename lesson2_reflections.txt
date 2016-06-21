@@ -43,4 +43,4 @@ the diagram the way we do?
 7>What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
 
-7>
+7>automatic merging allows for the code that does not conflict in the two files seamlessly thus saving time. manual merging would allow us to ensure that the sanctity and efficiency of the code is maintained
