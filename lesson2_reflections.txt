@@ -35,7 +35,7 @@ organized? How would branches help?
 6>What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-6>
+6> The changes made in the two branches would be merged into a single file allowing us to incorporate the new tested functionalities for eg. Representing it in the diagram format allows us to visualise where the merge was done to identify any commits that are not a part of the merged commit anymore and also the commits that are.
 
 
 
